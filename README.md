@@ -1,5 +1,5 @@
 # fem-troubleshooting-abaqus-lsdyna
-Troubleshooting for problems with finite element software.
+Troubleshooting for problems, error messages and warnings with finite element software.
 
 ## About
 This is a collection of different error messages and problems I have encountered while working with finite element simulations. 
